@@ -1,1 +1,2 @@
-# MySQL101
+# MySQL Tasks
+My repository for learning SQL!!!
